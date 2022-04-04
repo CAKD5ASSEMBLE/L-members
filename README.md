@@ -7,9 +7,10 @@
 ![main](https://user-images.githubusercontent.com/102858692/161479600-5540a50a-92e9-495d-8e7b-76c44f60be49.png)
 
 
-### <연락처(Contact)>
+### <Profile>
 
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
+
 - 박광민(PARK KWAMG MIN)<br><br><br><br><br>
 
 MAIL : qkrrhk@gmail.com <br>
@@ -17,6 +18,7 @@ Github : https://github.com/KMP94<br>
 
 ---
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481002-6c4f9f96-5ae6-4ea6-b2d0-d0a665b158fa.png"/>
+
 - 김기현(KIM GI HYUN)<br><br><br><br><br>
 
 MAIL : luckyboy3214@naver.com <br>
